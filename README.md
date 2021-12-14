@@ -1,2 +1,2 @@
 # ZeeUtils
-Utility functionality reusable for any .net project
+Utility functionality reusable for any .net project.
