@@ -7,7 +7,7 @@ on:
     #branches: [ master, develop, nuget_package_publish ]
   
 env:
-  PROJECT_PATH: 'ZeeUtils/ZeeUtils.csproj'
+  PROJECT_PATH: '../ZeeUtils.csproj'
   PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}\output
   NUGET_SOURCE_URL: 'https://nuget.pkg.github.com/zeesoft2005/index.json'
 
